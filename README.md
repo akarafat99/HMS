@@ -1,2 +1,1 @@
-# HMS
-Hall Management System
+# Hall Management System

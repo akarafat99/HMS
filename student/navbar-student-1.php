@@ -1,6 +1,4 @@
 <?php
-
-
 // Original code: removes the document root from the current file's directory.
 $navbarDir = str_replace($_SERVER['DOCUMENT_ROOT'], '', dirname(__FILE__));
 
